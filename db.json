@@ -1,20 +1,6 @@
 {
   "projects": [
     {
-      "Project Number": "000001",
-      "Project Name": "Sky Heights Tower",
-      "Status": "Precon/Design",
-      "Start Date": "03/31/2021",
-      "Finish Date": "04/30/2021"
-    },
-    {
-      "Project Number": "000002",
-      "Project Name": "The Test",
-      "Status": "Warranty",
-      "Start Date": "03/31/2021",
-      "Finish Date": "03/31/2021"
-    },
-    {
       "Project Number": "000003",
       "Project Name": "Sky Heights Tower",
       "Status": "Closeout",
@@ -29,11 +15,39 @@
       "Finish Date": ""
     },
     {
+      "Project Number": "000001",
+      "Project Name": "Sky Heights Tower",
+      "Status": "Precon/Design",
+      "Start Date": "03/31/2021",
+      "Finish Date": "04/30/2021"
+    },
+    {
+      "Project Number": "000002",
+      "Project Name": "The Test",
+      "Status": "Warranty",
+      "Start Date": "03/31/2021",
+      "Finish Date": "03/31/2021"
+    },
+    {
       "Project Number": "000005",
       "Project Name": "Sky Heights Tower",
       "Status": "Precon/Design",
       "Start Date": "",
       "Finish Date": ""
+    },
+    {
+      "Project Number": "Six",
+      "Project Name": "Sky Heights",
+      "Status": "Precon/Design",
+      "Start Date": "02/31/2019",
+      "Finish Date": "03/31/2021"
+    },
+    {
+      "Project Number": "Seven",
+      "Project Name": "Archive",
+      "Status": "Warranty",
+      "Start Date": "02/15/2020",
+      "Finish Date": "07/07/2020"
     }
   ]
 }
