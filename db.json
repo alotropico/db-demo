@@ -182,12 +182,12 @@
       "Revision": "0",
       "Description": "desc",
       "Status": "To Be Submitted",
-      "Vendor Return Date": "05/07/2021",
+      "Vendor Return": "05/07/2021",
       "PO Number": "6131",
       "Supplier Name": "Home Depot",
       "Qty. Ordered": "91",
-      "Submitted To Gc Date": "04/28/2021",
-      "Returned From Gc Date": "04/29/2021",
+      "Submitted To Gc": "04/28/2021",
+      "Returned From Gc": "04/29/2021",
       "Closed?": false
     },
     {
@@ -195,12 +195,12 @@
       "Revision": "0",
       "Description": "desc",
       "Status": "To Be Submitted",
-      "Vendor Return Date": "05/07/2021",
+      "Vendor Return": "05/07/2021",
       "PO Number": "6131",
       "Supplier Name": "Home Depot",
       "Qty. Ordered": "91",
-      "Submitted To Gc Date": "04/28/2021",
-      "Returned From Gc Date": "04/29/2021",
+      "Submitted To Gc": "04/28/2021",
+      "Returned From Gc": "04/29/2021",
       "Closed?": true
     },
     {
@@ -208,12 +208,12 @@
       "Revision": "0",
       "Description": "desc",
       "Status": "To Be Submitted",
-      "Vendor Return Date": "05/07/2021",
+      "Vendor Return": "05/07/2021",
       "PO Number": "6131",
       "Supplier Name": "Home Depot",
       "Qty. Ordered": "91",
-      "Submitted To Gc Date": "04/28/2021",
-      "Returned From Gc Date": "04/29/2021",
+      "Submitted To Gc": "04/28/2021",
+      "Returned From Gc": "04/29/2021",
       "Closed?": false
     },
     {
@@ -221,12 +221,12 @@
       "Revision": "0",
       "Description": "desc",
       "Status": "To Be Submitted",
-      "Vendor Return Date": "05/07/2021",
+      "Vendor Return": "05/07/2021",
       "PO Number": "6131",
       "Supplier Name": "Home Depot",
       "Qty. Ordered": "91",
-      "Submitted To Gc Date": "04/28/2021",
-      "Returned From Gc Date": "04/29/2021",
+      "Submitted To Gc": "04/28/2021",
+      "Returned From Gc": "04/29/2021",
       "Closed?": true
     }
   ]
