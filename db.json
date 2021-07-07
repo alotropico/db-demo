@@ -176,7 +176,7 @@
       "Closed?": false
     }
   ],
-  "material": [
+  "register": [
     {
       "Register Number": "14",
       "Revision": "0",
@@ -201,7 +201,7 @@
       "Qty. Ordered": "91",
       "Submitted To Gc Date": "04/28/2021",
       "Returned From Gc Date": "04/29/2021",
-      "Closed?": false
+      "Closed?": true
     }
   ]
 }
