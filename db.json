@@ -229,5 +229,34 @@
       "Returned From Gc": "04/29/2021",
       "Closed?": true
     }
+  ],
+  "materials": [
+    {
+      "Number": "14",
+      "Release To Address": "123 Fake Street Fake Place, FP 12345",
+      "Pay Item Code": "300.000",
+      "Required Delivery": "06/23/2021",
+      "Supplier Name": "",
+      "Release Instructions": "Release",
+      "PO Number": ""
+    },
+    {
+      "Number": "15",
+      "Release To Address": "123 Fake Street Fake Place, FP 12345",
+      "Pay Item Code": "300.000",
+      "Required Delivery": "06/23/2021",
+      "Supplier Name": "",
+      "Release Instructions": "Release",
+      "PO Number": ""
+    },
+    {
+      "Number": "16",
+      "Release To Address": "123 Fake Street Fake Place, FP 12345",
+      "Pay Item Code": "300.000",
+      "Required Delivery": "06/23/2021",
+      "Supplier Name": "",
+      "Release Instructions": "Release",
+      "PO Number": ""
+    }
   ]
 }
