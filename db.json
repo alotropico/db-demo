@@ -258,5 +258,27 @@
       "Release Instructions": "Release",
       "PO Number": ""
     }
+  ],
+  "rfis": [
+    {
+      "RFI Number": "1004",
+      "Subject": "Airplanes",
+      "Importance": "Normal",
+      "Sent Date": "06/21/2021",
+      "Due Date": "06/22/2021",
+      "Received Date": "06/23/2021",
+      "BIM Required?": true,
+      "Closed?": false				
+    },
+    {
+      "RFI Number": "1003",
+      "Subject": "Subject",
+      "Importance": "High",
+      "Sent Date": "06/21/2021",
+      "Due Date": "06/22/2021",
+      "Received Date": "06/23/2021",
+      "BIM Required?": false,
+      "Closed?": true				
+    }
   ]
 }
